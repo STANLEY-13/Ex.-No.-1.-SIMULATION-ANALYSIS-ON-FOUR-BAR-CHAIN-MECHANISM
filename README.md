@@ -53,10 +53,11 @@
 
 
 ## Output:
+![Screenshot (140)](https://github.com/STANLEY-13/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148198816/71b46dd6-1278-43e1-a96f-5144f1574199)
 
 
-### Name:
-### Register Number: 
+### Name: STANLEY S
+### Register Number: 212223110054
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
